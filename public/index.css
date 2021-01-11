@@ -1,0 +1,49 @@
+.middle-container {
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 300px;
+	height: 218px;
+}
+
+.header {
+	text-align: center;
+	margin-bottom: 12px;
+	font-size: 30px;
+}
+
+.subheading {
+	text-align: center;
+	margin-bottom: 30px;
+	font-size: 15px;
+	font-weight: 400;
+	color: #777;
+}
+
+.form-control {
+	text-align: center;
+}
+
+.btn-primary {
+	margin-top: 12px;
+	width: 300px;
+}
+
+.error {
+	color: red;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 8px;
+}
+
+.startupname {
+	width: 500px;
+	margin-top: 20px;
+	position: absolute;
+	left: -100px;
+	font-size: 46px;
+	color: red;
+}
